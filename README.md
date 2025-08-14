@@ -17,11 +17,11 @@ Test your memory by flipping cards to find matching pairs of cricket players!
 
 ## 📂 Project Structure
 ``
-memory-game/
-│── index.html 
-│── styles.css 
-│── index.js 
-│── image/ 
+memory-game/ <br>
+│── index.html <br>
+│── styles.css <br>
+│── index.js <br>
+│── image/ <br>
 │── README.md 
 ``
 
